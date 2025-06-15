@@ -9,8 +9,8 @@ The goal is to classify financial tweets into three sentiment categories: **Bear
 ## 🗂️ Repository Structure
 ```
 text_mining_2025/
-├── Dados/ # Raw datasets (excluded from Git)
-├── Entrega Final/ # Final notebooks and predictions
+├── Data/ # Raw datasets 
+├── Final Delivery/ # Final notebooks and predictions
 │ ├── pred_11.csv # Final predictions on test set
 │ ├── tm_final_11.ipynb # Clean final notebook
 │ └── tm_testes_11.ipynb # Model experimentation
