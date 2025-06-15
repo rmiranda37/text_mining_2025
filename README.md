@@ -8,7 +8,7 @@ The goal is to classify financial tweets into three sentiment categories: **Bear
 
 ## 🗂️ Repository Structure
 
-
+.
 ├── Dados/ # Raw datasets (excluded from Git)
 ├── Entrega Final/ # Final notebooks and predictions
 │ ├── pred_11.csv # Final predictions on test set
