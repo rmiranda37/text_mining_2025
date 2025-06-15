@@ -7,7 +7,7 @@ This repository presents the final project for the **Text Mining** course of the
 The goal is to classify financial tweets into three sentiment categories: **Bearish**, **Bullish**, and **Neutral**, leveraging Natural Language Processing (NLP) techniques. Tweets are noisy by nature and reflect informal language, posing unique challenges for sentiment analysis.
 
 ## 🗂️ Repository Structure
-
+```
 text_mining_2025/
 ├── Dados/ # Raw datasets (excluded from Git)
 ├── Entrega Final/ # Final notebooks and predictions
@@ -17,7 +17,7 @@ text_mining_2025/
 ├── Inês & Luis & Pedro & Rafael & Rodrigo/ # Individual contributions
 ├── Project Handout TM 2025.pdf # Official project handout
 └── README.md # Project overview and structure
-
+```
 
 ## 🛠️ Key Components
 
