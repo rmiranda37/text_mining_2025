@@ -15,8 +15,8 @@ text_mining_2025/
 │ ├── tm_final_11.ipynb # Clean final notebook
 │ └── tm_testes_11.ipynb # Model experimentation
 ├── Inês & Luis & Pedro & Rafael & Rodrigo/ # Individual contributions
-├── Project Handout TM 2025.pdf
-└── README.md
+├── Project Handout TM 2025.pdf # Official project handout
+└── README.md # Project overview and structure
 
 
 ## 🛠️ Key Components
